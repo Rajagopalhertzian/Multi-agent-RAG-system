@@ -12,7 +12,7 @@
 [![Docker](https://img.shields.io/badge/Docker-ready-blue?logo=docker)](https://docker.com)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
-[Live Demo](https://huggingface.co/spaces/YOUR_HF_USERNAME/doc-intelligence) · [API Docs](http://localhost:8000/docs) · [Report Bug](https://github.com/Rajagopalhertzian/doc-intelligence/issues)
+[Live Demo](https://huggingface.co/spaces/RajaGopalML/Multi_Agent_Document_Intelligence_System) · [API Docs](http://localhost:8000/docs) · [Report Bug](https://github.com/Rajagopalhertzian/doc-intelligence/issues)
 
 </div>
 
