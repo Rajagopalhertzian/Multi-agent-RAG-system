@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Multi-Agent Document Intelligence Platform
+# 🧠 Multi-Agent Document Intelligence Platform
 
 **Ask questions about any PDF — with citations, visual understanding, and automated quality scores**
 

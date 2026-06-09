@@ -1,0 +1,55 @@
+# Core LLM & Agent Framework
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-openai==0.1.23
+langchain-groq==0.1.9
+langgraph==0.2.28
+langchain-core==0.2.38
+pydantic-settings==2.4.0
+
+# Vector Databases
+chromadb==0.5.5
+faiss-cpu==1.8.0
+
+# Embeddings & Models
+openai==1.45.0
+sentence-transformers==3.0.1
+transformers==4.44.2
+torch==2.4.0
+torchvision==0.19.0
+ftfy==6.2.0
+regex==2024.7.24
+
+# CLIP (vision agent)
+git+https://github.com/openai/CLIP.git
+
+# PDF Processing
+pypdf==4.3.1
+pdfplumber==0.11.4
+Pillow==10.4.0
+pdf2image==1.17.0
+
+# Reranker
+rank-bm25==0.2.2
+
+# API Framework
+fastapi==0.114.1
+uvicorn==0.30.6
+pydantic==2.9.1
+python-multipart==0.0.9
+
+# Evaluation
+ragas==0.1.21
+datasets==2.21.0
+
+# Frontend
+streamlit==1.38.0
+
+# Utilities
+python-dotenv==1.0.1
+loguru==0.7.2
+httpx==0.27.2
+tenacity==9.0.0
+tqdm==4.66.5
+numpy==1.26.4
+pandas==2.2.2
